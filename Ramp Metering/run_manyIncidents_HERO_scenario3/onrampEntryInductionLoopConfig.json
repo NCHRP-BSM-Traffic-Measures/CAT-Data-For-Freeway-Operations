@@ -1,0 +1,66 @@
+{
+    "Onramp5": {
+        "rampEntryInductionLoops": ["E1_O5_entry_0", "E1_O5_entry_1"],
+        "period": 30
+    },
+
+    "Onramp6": {
+        "rampEntryInductionLoops": ["E1_O6_entry_0", "E1_O6_entry_1"],
+        "period": 30
+    },
+
+    "Onramp7": {
+        "rampEntryInductionLoops": ["E1_O7_entry_0", "E1_O7_entry_1"],
+        "period": 30
+    },
+
+    "Onramp8": {
+        "rampEntryInductionLoops": ["E1_O8_entry_0", "E1_O8_entry_1"],
+        "period": 30
+    },
+
+    "Onramp9": {
+        "rampEntryInductionLoops": ["E1_O9_entry_0", "E1_O9_entry_1"],
+        "period": 30
+    },
+
+    "Onramp10": {
+        "rampEntryInductionLoops": ["E1_O10_entry_0", "E1_O10_entry_1"],
+        "period": 30
+    },
+
+    "Onramp11": {
+        "rampEntryInductionLoops": ["E1_O11_entry_0"],
+        "period": 30
+    },
+
+    "Onramp12": {
+        "rampEntryInductionLoops": ["E1_O12_entry_0", "E1_O12_entry_1"],
+        "period": 30
+    },
+
+    "Onramp13": {
+        "rampEntryInductionLoops": ["E1_O13_entry_0"],
+        "period": 30
+    },
+
+    "Onramp14": {
+        "rampEntryInductionLoops": ["E1_O14_entry_0"],
+        "period": 30
+    },
+
+    "Onramp15": {
+        "rampEntryInductionLoops": ["E1_O15_entry_0", "E1_O15_entry_1"],
+        "period": 30
+    },
+
+    "Onramp16": {
+        "rampEntryInductionLoops": ["E1_O16_entry_0", "E1_O16_entry_1"],
+        "period": 30
+    },
+
+    "Onramp17": {
+        "rampEntryInductionLoops": ["E1_O17_entry_0", "E1_O17_entry_1"],
+        "period": 30
+    }
+}

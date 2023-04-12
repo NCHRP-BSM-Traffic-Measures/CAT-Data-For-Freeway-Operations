@@ -1,0 +1,66 @@
+{
+    "Onramp5": {
+        "mainlineInductionLoops": ["E1_RM5_0", "E1_RM5_1", "E1_RM5_2", "E1_RM5_3", "E1_RM5_4", "E1_RM5_5"],
+        "period": 30
+    },
+
+    "Onramp6": {
+        "mainlineInductionLoops": ["E1_RM6_0", "E1_RM6_1", "E1_RM6_2", "E1_RM6_3", "E1_RM6_4", "E1_RM6_5"],
+        "period": 30
+    },
+
+    "Onramp7": {
+        "mainlineInductionLoops": ["E1_RM7_0", "E1_RM7_1", "E1_RM7_2", "E1_RM7_3", "E1_RM7_4"],
+        "period": 30
+    },
+
+    "Onramp8": {
+        "mainlineInductionLoops": ["E1_RM8_0", "E1_RM8_1", "E1_RM8_2", "E1_RM8_3", "E1_RM8_4"],
+        "period": 30
+    },
+
+    "Onramp9": {
+        "mainlineInductionLoops": ["E1_RM9_0", "E1_RM9_1", "E1_RM9_2", "E1_RM9_3", "E1_RM9_4"],
+        "period": 30
+    },
+
+    "Onramp10": {
+        "mainlineInductionLoops": ["E1_RM10_0", "E1_RM10_1", "E1_RM10_2", "E1_RM10_3", "E1_RM10_4"],
+        "period": 30
+    },
+
+    "Onramp11": {
+        "mainlineInductionLoops": ["E1_RM11_0", "E1_RM11_1", "E1_RM11_2", "E1_RM11_3", "E1_RM11_4"],
+        "period": 30
+    },
+
+    "Onramp12": {
+        "mainlineInductionLoops": ["E1_RM12_0", "E1_RM12_1", "E1_RM12_2", "E1_RM12_3", "E1_RM12_4"],
+        "period": 30
+    },
+
+    "Onramp13": {
+        "mainlineInductionLoops": ["E1_RM13_0", "E1_RM13_1", "E1_RM13_2", "E1_RM13_3", "E1_RM13_4"],
+        "period": 30
+    },
+
+    "Onramp14": {
+        "mainlineInductionLoops": ["E1_RM14_0", "E1_RM14_1", "E1_RM14_2", "E1_RM14_3", "E1_RM14_4"],
+        "period": 30
+    },
+
+    "Onramp15": {
+        "mainlineInductionLoops": ["E1_RM15_0", "E1_RM15_1", "E1_RM15_2", "E1_RM15_3", "E1_RM15_4", "E1_RM15_5"],
+        "period": 30
+    },
+
+    "Onramp16": {
+        "mainlineInductionLoops": ["E1_RM16_0", "E1_RM16_1", "E1_RM16_2", "E1_RM16_3", "E1_RM16_4"],
+        "period": 30
+    },
+
+    "Onramp17": {
+        "mainlineInductionLoops": ["E1_RM17_0", "E1_RM17_1", "E1_RM17_2", "E1_RM17_3", "E1_RM17_4", "E1_RM17_5"],
+        "period": 30
+    }
+}

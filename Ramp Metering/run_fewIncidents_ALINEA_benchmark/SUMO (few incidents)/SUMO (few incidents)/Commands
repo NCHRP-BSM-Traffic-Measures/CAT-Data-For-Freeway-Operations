@@ -1,0 +1,3 @@
+#sumo-gui -c I210.sumocfg.xml --no-warnings True --seed 42 --collision.action none --end 25200
+
+#sumo --step-length 1 -c I210.sumocfg.xml --seed 42 --no-warnings true --collision.action none --end 25200 --fcd-output.acceleration --fcd-output trajSample_7hours.xml

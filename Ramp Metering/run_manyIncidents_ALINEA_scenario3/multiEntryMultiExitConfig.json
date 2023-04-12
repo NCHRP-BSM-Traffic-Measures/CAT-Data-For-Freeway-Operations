@@ -1,0 +1,11 @@
+{
+    "System": {
+        "id": "System",
+        "period": 900
+    },
+
+    "Mainline": {
+        "id": "Mainline",
+        "period": 900
+    }
+}

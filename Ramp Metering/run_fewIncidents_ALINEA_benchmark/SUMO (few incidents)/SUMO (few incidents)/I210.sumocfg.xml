@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-05-23 11:39:28 by Eclipse SUMO GUI Version 1.12.0-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="./I210.net(zipper).xml"/>
+        <route-files value="./I210.routes.xml, ./I210.vehicleTypes.xml, ./I210.flows.xml"/>
+        <additional-files value="./I210.detector.xml, I210.calibrator(hovSeg1).xml, I210.calibrator(hovSeg2).xml, I210.calibrator(hovSeg3).xml, I210.calibrator(hovSeg4).xml, I210.calibrator(hovSeg5).xml, I210.calibrator(mainSeg1).xml, I210.calibrator(mainSeg2).xml, I210.calibrator(mainSeg3).xml"/>
+    </input>
+
+    <gui_only>
+        <gui-settings-file value="settings.gui.xml"/>
+    </gui_only>
+
+</configuration>

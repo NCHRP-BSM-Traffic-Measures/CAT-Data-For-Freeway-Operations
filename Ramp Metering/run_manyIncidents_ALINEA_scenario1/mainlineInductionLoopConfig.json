@@ -1,0 +1,91 @@
+{
+    "Mainline5": {
+        "mainlineInductionLoops": ["E1_M5_0", "E1_M5_1", "E1_M5_2", "E1_M5_3", "E1_M5_4"],
+        "period": 30
+    },
+
+    "Mainline6": {
+        "mainlineInductionLoops": ["E1_M6_0", "E1_M6_1", "E1_M6_2", "E1_M6_3", "E1_M6_4"],
+        "period": 30
+    },
+
+    "Mainline7": {
+        "mainlineInductionLoops": ["E1_M7_0", "E1_M7_1", "E1_M7_2", "E1_M7_3"],
+        "period": 30
+    },
+
+    "Mainline8": {
+        "mainlineInductionLoops": ["E1_M8_0", "E1_M8_1", "E1_M8_2", "E1_M8_3"],
+        "period": 30
+    },
+
+    "Mainline9": {
+        "mainlineInductionLoops": ["E1_M9_0", "E1_M9_1", "E1_M9_2", "E1_M9_3", "E1_M9_4"],
+        "period": 30
+    },
+
+    "Mainline10": {
+        "mainlineInductionLoops": ["E1_M10_0", "E1_M10_1", "E1_M10_2", "E1_M10_3"],
+        "period": 30
+    },
+
+    "Mainline11": {
+        "mainlineInductionLoops": ["E1_M11_0", "E1_M11_1", "E1_M11_2", "E1_M11_3"],
+        "period": 30
+    },
+
+    "Mainline12": {
+        "mainlineInductionLoops": ["E1_M12_0", "E1_M12_1", "E1_M12_2", "E1_M12_3"],
+        "period": 30
+    },
+
+    "Mainline13": {
+        "mainlineInductionLoops": ["E1_M13_0", "E1_M13_1", "E1_M13_2", "E1_M13_3"],
+        "period": 30
+    },
+
+    "Mainline14": {
+        "mainlineInductionLoops": ["E1_M14_0", "E1_M14_1", "E1_M14_2", "E1_M14_3"],
+        "period": 30
+    },
+
+    "Mainline15": {
+        "mainlineInductionLoops": ["E1_M15_0", "E1_M15_1", "E1_M15_2", "E1_M15_3"],
+        "period": 30
+    },
+
+    "Mainline16": {
+        "mainlineInductionLoops": ["E1_M16_0", "E1_M16_1", "E1_M16_2", "E1_M16_3"],
+        "period": 30
+    },
+
+    "Mainline17": {
+        "mainlineInductionLoops": ["E1_M17_0", "E1_M17_1", "E1_M17_2", "E1_M17_3", "E1_M17_4"],
+        "period": 30
+    },
+
+    "Mainline18": {
+        "mainlineInductionLoops": ["E1_M18_0", "E1_M18_1", "E1_M18_2", "E1_M18_3"],
+        "period": 30
+    },
+
+    "Mainline19": {
+        "mainlineInductionLoops": ["E1_M19_0", "E1_M19_1", "E1_M19_2", "E1_M19_3"],
+        "period": 30
+    },
+
+    "Mainline20": {
+        "mainlineInductionLoops": ["E1_M20_0", "E1_M20_1", "E1_M20_2", "E1_M20_3"],
+        "period": 30
+    },
+
+    "Mainline21": {
+        "mainlineInductionLoops": ["E1_M21_0", "E1_M21_1", "E1_M21_2", "E1_M21_3", "E1_M21_4"],
+        "period": 30
+    },
+
+    "Mainline22": {
+        "mainlineInductionLoops": ["E1_M22_0", "E1_M22_1", "E1_M22_2", "E1_M22_3"],
+        "period": 30
+    }
+}

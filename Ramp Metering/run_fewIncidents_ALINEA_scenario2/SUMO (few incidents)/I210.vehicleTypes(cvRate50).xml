@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes>
+    <!--Traditional vehciles-->
+    <vTypeDistribution id="car">
+        <vType id="car1"    vClass="passenger" length="5.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="car2"    vClass="passenger" length="5.5" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="car3"    vClass="passenger" length="6.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="car1_cv" vClass="passenger" length="5.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="car2_cv" vClass="passenger" length="5.5" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="car3_cv" vClass="passenger" length="6.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+    </vTypeDistribution>
+
+    <vTypeDistribution id="hov">
+        <vType id="hov1"    vClass="hov" length="5.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="5" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="hov2"    vClass="hov" length="5.5" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="5" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="hov3"    vClass="hov" length="6.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="5" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="hov1_cv" vClass="hov" length="5.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="5" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="hov2_cv" vClass="hov" length="5.5" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="5" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+        <vType id="hov3_cv" vClass="hov" length="6.0" tau="1.4" minGap="3.0" sigma="0.2" speedFactor="normc(1,0.1,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="5" lcSpeedGain="5" lcAssertive="2" startupDelay="1"/>
+    </vTypeDistribution>
+
+    <vTypeDistribution id="lightTruck">
+        <vType id="lightTruck1"    vClass="truck" length="7.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="lightTruck2"    vClass="truck" length="7.5" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="lightTruck3"    vClass="truck" length="8.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="lightTruck1_cv" vClass="truck" length="7.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="lightTruck2_cv" vClass="truck" length="7.5" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="lightTruck3_cv" vClass="truck" length="8.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+    </vTypeDistribution>
+
+    <vTypeDistribution id="heavyTruck">
+        <vType id="heavyTruck1"    vClass="truck" length="15.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="heavyTruck2"    vClass="truck" length="15.5" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="heavyTruck3"    vClass="truck" length="16.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="heavyTruck1_cv" vClass="truck" length="15.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.35" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="heavyTruck2_cv" vClass="truck" length="15.5" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.1" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+        <vType id="heavyTruck3_cv" vClass="truck" length="16.0" tau="1.6" minGap="3.5" sigma="0.2" speedFactor="normc(1,0.05,1.0,1.2)" probability="0.05" lcCooperative="0.8" lcStrategic="10" lcSpeedGain="5" lcAssertive="1" startupDelay="1"/>
+    </vTypeDistribution>
+
+</routes>

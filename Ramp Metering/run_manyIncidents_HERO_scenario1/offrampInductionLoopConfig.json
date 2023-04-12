@@ -1,0 +1,61 @@
+{
+    "Offramp5": {
+        "offrampInductionLoops": ["E1_F5_0", "E1_F5_1"],
+        "period": 30
+    },
+
+    "Offramp6": {
+        "offrampInductionLoops": ["E1_F6_0"],
+        "period": 30
+    },
+
+    "Offramp7": {
+        "offrampInductionLoops": ["E1_F7_0"],
+        "period": 30
+    },
+
+    "Offramp8": {
+        "offrampInductionLoops": ["E1_F8_0", "E1_F8_1"],
+        "period": 30
+    },
+
+    "Offramp9": {
+        "offrampInductionLoops": ["E1_F9_0"],
+        "period": 30
+    },
+
+    "Offramp10": {
+        "offrampInductionLoops": ["E1_F10_0"],
+        "period": 30
+    },
+
+    "Offramp11": {
+        "offrampInductionLoops": ["E1_F11_0", "E1_F11_1"],
+        "period": 30
+    },
+
+    "Offramp12": {
+        "offrampInductionLoops": ["E1_F12_0"],
+        "period": 30
+    },
+
+    "Offramp13": {
+        "offrampInductionLoops": ["E1_F13_0"],
+        "period": 30
+    },
+
+    "Offramp14": {
+        "offrampInductionLoops": ["E1_F14_0", "E1_F14_1"],
+        "period": 30
+    },
+
+    "Offramp15": {
+        "offrampInductionLoops": ["E1_F15_0"],
+        "period": 30
+    },
+
+    "Offramp16": {
+        "offrampInductionLoops": ["E1_F16_0", "E1_F16_1"],
+        "period": 30
+    }
+}

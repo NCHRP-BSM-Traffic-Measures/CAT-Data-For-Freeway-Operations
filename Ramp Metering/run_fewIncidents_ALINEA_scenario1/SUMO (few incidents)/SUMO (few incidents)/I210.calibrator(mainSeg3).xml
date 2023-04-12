@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional>
+	<vType id="car1_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="passenger"/>
+	<vType id="car1_cv_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="passenger"/>
+	<vType id="car2_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.5" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="passenger"/>
+	<vType id="car2_cv_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.5" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="passenger"/>
+	<vType id="car3_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="6.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="passenger"/>
+	<vType id="car3_cv_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="6.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="passenger"/>
+	<vType id="hov1_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="hov"/>
+	<vType id="hov1_cv_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="hov"/>
+	<vType id="hov2_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.5" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="hov"/>
+	<vType id="hov2_cv_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="5.5" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="hov"/>
+	<vType id="hov3_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="6.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="hov"/>
+	<vType id="hov3_cv_seg3" lcAssertive="2" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="6.0" minGap="3.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="1.5" vClass="hov"/>
+
+	<vType id="lightTruck1_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="7.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="lightTruck1_cv_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="7.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="lightTruck2_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="7.5" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="lightTruck2_cv_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="7.5" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="lightTruck3_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="8.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="lightTruck3_cv_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="8.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="heavyTruck1_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="15.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="heavyTruck1_cv_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="15.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="heavyTruck2_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="15.5" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="heavyTruck2_cv_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="15.5" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="heavyTruck3_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="16.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	<vType id="heavyTruck3_cv_seg3" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="10" length="16.0" minGap="3.5" sigma="0.2" speedFactor="normc(1.0,0.05,1.0,1.2)" startupDelay="1" tau="1.6" vClass="truck"/>
+	
+	<calibrator edge="S44_M" id="S44_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_car1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_car1" lane="S56_M_0" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_car1" lane="S56_M_1" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_car1" lane="S56_M_2" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_car1" lane="S56_M_3" pos="0" vTypes="car1">
+		<flow begin="0" end="25200" type="car1_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_car2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_car2" lane="S56_M_0" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_car2" lane="S56_M_1" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_car2" lane="S56_M_2" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_car2" lane="S56_M_3" pos="0" vTypes="car2">
+		<flow begin="0" end="25200" type="car2_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_car3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_car3" lane="S56_M_0" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_car3" lane="S56_M_1" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_car3" lane="S56_M_2" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_car3" lane="S56_M_3" pos="0" vTypes="car3">
+		<flow begin="0" end="25200" type="car3_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_car1_cv" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_car1_cv" lane="S56_M_0" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_car1_cv" lane="S56_M_1" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_car1_cv" lane="S56_M_2" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_car1_cv" lane="S56_M_3" pos="0" vTypes="car1_cv">
+		<flow begin="0" end="25200" type="car1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_car2_cv" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_car2_cv" lane="S56_M_0" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_car2_cv" lane="S56_M_1" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_car2_cv" lane="S56_M_2" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_car2_cv" lane="S56_M_3" pos="0" vTypes="car2_cv">
+		<flow begin="0" end="25200" type="car2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_car3_cv" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_car3_cv" lane="S56_M_0" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_car3_cv" lane="S56_M_1" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_car3_cv" lane="S56_M_2" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_car3_cv" lane="S56_M_3" pos="0" vTypes="car3_cv">
+		<flow begin="0" end="25200" type="car3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_hov1" lane="S56_M_0" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_hov1" lane="S56_M_1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_hov1" lane="S56_M_2" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_hov1" lane="S56_M_3" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_hov2" lane="S56_M_0" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_hov2" lane="S56_M_1" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_hov2" lane="S56_M_2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_hov2" lane="S56_M_3" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_hov3" lane="S56_M_0" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_hov3" lane="S56_M_1" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_hov3" lane="S56_M_2" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_hov3" lane="S56_M_3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_hov1_cv" lane="S56_M_0" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_hov1_cv" lane="S56_M_1" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_hov1_cv" lane="S56_M_2" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_hov1_cv" lane="S56_M_3" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_hov2_cv" lane="S56_M_0" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_hov2_cv" lane="S56_M_1" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_hov2_cv" lane="S56_M_2" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_hov2_cv" lane="S56_M_3" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_hov3_cv" lane="S56_M_0" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_hov3_cv" lane="S56_M_1" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_hov3_cv" lane="S56_M_2" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_hov3_cv" lane="S56_M_3" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_lightTruck1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_lightTruck1" lane="S56_M_0" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_lightTruck1" lane="S56_M_1" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_lightTruck1" lane="S56_M_2" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_lightTruck1" lane="S56_M_3" pos="0" vTypes="lightTruck1">
+		<flow begin="0" end="25200" type="lightTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_lightTruck2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_lightTruck2" lane="S56_M_0" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_lightTruck2" lane="S56_M_1" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_lightTruck2" lane="S56_M_2" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_lightTruck2" lane="S56_M_3" pos="0" vTypes="lightTruck2">
+		<flow begin="0" end="25200" type="lightTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_lightTruck3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_lightTruck3" lane="S56_M_0" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_lightTruck3" lane="S56_M_1" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_lightTruck3" lane="S56_M_2" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_lightTruck3" lane="S56_M_3" pos="0" vTypes="lightTruck3">
+		<flow begin="0" end="25200" type="lightTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_lightTruck1_cv" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_lightTruck1_cv" lane="S56_M_0" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_lightTruck1_cv" lane="S56_M_1" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_lightTruck1_cv" lane="S56_M_2" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_lightTruck1_cv" lane="S56_M_3" pos="0" vTypes="lightTruck1_cv">
+		<flow begin="0" end="25200" type="lightTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_lightTruck2_cv" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_lightTruck2_cv" lane="S56_M_0" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_lightTruck2_cv" lane="S56_M_1" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_lightTruck2_cv" lane="S56_M_2" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_lightTruck2_cv" lane="S56_M_3" pos="0" vTypes="lightTruck2_cv">
+		<flow begin="0" end="25200" type="lightTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_lightTruck3_cv" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_lightTruck3_cv" lane="S56_M_0" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_lightTruck3_cv" lane="S56_M_1" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_lightTruck3_cv" lane="S56_M_2" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_lightTruck3_cv" lane="S56_M_3" pos="0" vTypes="lightTruck3_cv">
+		<flow begin="0" end="25200" type="lightTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_heavyTruck1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_heavyTruck1" lane="S56_M_0" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_heavyTruck1" lane="S56_M_1" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_heavyTruck1" lane="S56_M_2" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_heavyTruck1" lane="S56_M_3" pos="0" vTypes="heavyTruck1">
+		<flow begin="0" end="25200" type="heavyTruck1_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_heavyTruck2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_heavyTruck2" lane="S56_M_0" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_heavyTruck2" lane="S56_M_1" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_heavyTruck2" lane="S56_M_2" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_heavyTruck2" lane="S56_M_3" pos="0" vTypes="heavyTruck2">
+		<flow begin="0" end="25200" type="heavyTruck2_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_heavyTruck3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_heavyTruck3" lane="S56_M_0" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_heavyTruck3" lane="S56_M_1" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_heavyTruck3" lane="S56_M_2" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_heavyTruck3" lane="S56_M_3" pos="0" vTypes="heavyTruck3">
+		<flow begin="0" end="25200" type="heavyTruck3_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_heavyTruck1_cv" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_heavyTruck1_cv" lane="S56_M_0" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_heavyTruck1_cv" lane="S56_M_1" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_heavyTruck1_cv" lane="S56_M_2" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_heavyTruck1_cv" lane="S56_M_3" pos="0" vTypes="heavyTruck1_cv">
+		<flow begin="0" end="25200" type="heavyTruck1_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_heavyTruck2_cv" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_heavyTruck2_cv" lane="S56_M_0" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_heavyTruck2_cv" lane="S56_M_1" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_heavyTruck2_cv" lane="S56_M_2" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_heavyTruck2_cv" lane="S56_M_3" pos="0" vTypes="heavyTruck2_cv">
+		<flow begin="0" end="25200" type="heavyTruck2_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S44_M" id="S44_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S45_M" id="S45_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S46_M" id="S46_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S47_M" id="S47_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S48_M" id="S48_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S49_M" id="S49_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S50_M" id="S50_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S51_M" id="S51_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S52_M" id="S52_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S53_M" id="S53_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S54_M" id="S54_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator edge="S55_M" id="S55_M_heavyTruck3_cv" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_0_heavyTruck3_cv" lane="S56_M_0" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_1_heavyTruck3_cv" lane="S56_M_1" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_2_heavyTruck3_cv" lane="S56_M_2" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+	<calibrator id="S56_M_3_heavyTruck3_cv" lane="S56_M_3" pos="0" vTypes="heavyTruck3_cv">
+		<flow begin="0" end="25200" type="heavyTruck3_cv_seg3"/>
+	</calibrator>
+</additional>

@@ -1,0 +1,15 @@
+{
+    "veh_lengths_filepath":"Supporting_Files/vehicle_length_by_type_file_2.csv",
+    "stoplines_filepath":"Supporting_Files/stopBar_new_test_calcs_for_known_subset.csv",
+    "neighboring_links_filepath":"Supporting_Files/neighboringLinks.csv",
+    "sensorIDs_input_filepath":"Supporting_Files/sensorIDs_input.csv",
+    "neighboringSensors_filepath":"Supporting_Files/neighboringSensors.csv",
+    "ramp_dictionary_filepath":"Supporting_Files/ramp_dictionary.txt",
+    "all_ramp_lanes_filepath":"Supporting_Files/all_ramp_lane_combos.csv",
+    "bsm_data_filepath":"Supporting_Files/BSMOutput_7hr_Scenario1.csv",
+    "flow_data_filepath":"Supporting_Files/30SecondLaneBasedHourlyFlow(vehPerHour).csv",
+    "occupancy_data_filepath":"Supporting_Files/30SecondLaneBasedOccupancy(percentage).csv",
+    "ground_truth_filepath":"Supporting_Files/max_ground_truth_ramp_queues_7hr_new.csv",
+    "data_for_ML_filepath":"Supporting_Files/processed_queue_data_for_ML_temp.csv",
+    "xgb_model_filepath":"Supporting_Files/xgb_mse_Scenario1.pkl"
+}

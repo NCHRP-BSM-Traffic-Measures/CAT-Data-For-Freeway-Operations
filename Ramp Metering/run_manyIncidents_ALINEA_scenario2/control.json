@@ -1,0 +1,10 @@
+{
+    "randomGen_seed":3,
+    "equip_failure_rate":9,
+    "tmp_id_timeout":300,
+    "comm_failure_rate":30,
+    "rse_locations_filename":"rse_locations.csv",
+    "rse_range":1000,
+    "inactive_veh_threshold":30,
+    "brake_threshold":-0.2
+}

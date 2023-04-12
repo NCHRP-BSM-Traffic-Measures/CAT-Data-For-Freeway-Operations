@@ -1,0 +1,66 @@
+{
+    "Onramp5": {
+        "rampLaneAreaDetectors": ["E2_O5_0", "E2_O5_1"],
+        "period": 30
+    },
+
+    "Onramp6": {
+        "rampLaneAreaDetectors": ["E2_O6_0", "E2_O6_1"],
+        "period": 30
+    },
+
+    "Onramp7": {
+        "rampLaneAreaDetectors": ["E2_O7_0", "E2_O7_1"],
+        "period": 30
+    },
+
+    "Onramp8": {
+        "rampLaneAreaDetectors": ["E2_O8_0", "E2_O8_1"],
+        "period": 30
+    },
+
+    "Onramp9": {
+        "rampLaneAreaDetectors": ["E2_O9_0", "E2_O9_1"],
+        "period": 30
+    },
+
+    "Onramp10": {
+        "rampLaneAreaDetectors": ["E2_O10_0", "E2_O10_1"],
+        "period": 30
+    },
+
+    "Onramp11": {
+        "rampLaneAreaDetectors": ["E2_O11_0"],
+        "period": 30
+    },
+
+    "Onramp12": {
+        "rampLaneAreaDetectors": ["E2_O12_0", "E2_O12_1"],
+        "period": 30
+    },
+
+    "Onramp13": {
+        "rampLaneAreaDetectors": ["E2_O13_0", "E2_O13_1", "E2_O13_2"],
+        "period": 30
+    },
+
+    "Onramp14": {
+        "rampLaneAreaDetectors": ["E2_O14_0", "E2_O14_1", "E2_O14_2"],
+        "period": 30
+    },
+
+    "Onramp15": {
+        "rampLaneAreaDetectors": ["E2_O15_0", "E2_O15_1"],
+        "period": 30
+    },
+
+    "Onramp16": {
+        "rampLaneAreaDetectors": ["E2_O16_0", "E2_O16_1"],
+        "period": 30
+    },
+
+    "Onramp17": {
+        "rampLaneAreaDetectors": ["E2_O17_0", "E2_O17_1"],
+        "period": 30
+    }
+}

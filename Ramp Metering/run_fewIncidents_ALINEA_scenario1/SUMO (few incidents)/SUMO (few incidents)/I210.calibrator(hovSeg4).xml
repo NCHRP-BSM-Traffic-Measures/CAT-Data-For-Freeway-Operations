@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional>
+	<vType id="hov1_hovSeg4" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="5" length="5.0" maxSpeed="25" minGap="2.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="2.0" vClass="hov"/>
+	<vType id="hov1_cv_hovSeg4" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="5" length="5.0" maxSpeed="25" minGap="2.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="2.0" vClass="hov"/>
+	<vType id="hov2_hovSeg4" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="5" length="5.5" maxSpeed="25" minGap="2.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="2.0" vClass="hov"/>
+	<vType id="hov2_cv_hovSeg4" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="5" length="5.5" maxSpeed="25" minGap="2.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="2.0" vClass="hov"/>
+	<vType id="hov3_hovSeg4" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="5" length="6.0" maxSpeed="25" minGap="2.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="2.0" vClass="hov"/>
+	<vType id="hov3_cv_hovSeg4" lcAssertive="1" lcCooperative="0.8" lcSpeedGain="5" lcStrategic="5" length="6.0" maxSpeed="25" minGap="2.0" sigma="0.2" speedFactor="normc(1.0,0.1,1.0,1.2)" startupDelay="1" tau="2.0" vClass="hov"/>
+	
+	<calibrator edge="S57_H" id="S57_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S58_H" id="S58_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S59_H" id="S59_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S60_H" id="S60_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S61_H" id="S61_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S62_H" id="S62_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S63_H" id="S63_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S64_H" id="S64_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S65_H" id="S65_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S66_H" id="S66_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S67_H" id="S67_H_hov1" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator id="S68_M_5_hov1" lane="S68_M_5" pos="0" vTypes="hov1">
+		<flow begin="0" end="25200" type="hov1_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S57_H" id="S57_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S58_H" id="S58_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S59_H" id="S59_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S60_H" id="S60_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S61_H" id="S61_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S62_H" id="S62_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S63_H" id="S63_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S64_H" id="S64_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S65_H" id="S65_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S66_H" id="S66_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S67_H" id="S67_H_hov2" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator id="S68_M_5_hov2" lane="S68_M_5" pos="0" vTypes="hov2">
+		<flow begin="0" end="25200" type="hov2_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S57_H" id="S57_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S58_H" id="S58_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S59_H" id="S59_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S60_H" id="S60_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S61_H" id="S61_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S62_H" id="S62_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S63_H" id="S63_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S64_H" id="S64_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S65_H" id="S65_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S66_H" id="S66_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S67_H" id="S67_H_hov3" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator id="S68_M_5_hov3" lane="S68_M_5" pos="0" vTypes="hov3">
+		<flow begin="0" end="25200" type="hov3_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S57_H" id="S57_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S58_H" id="S58_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S59_H" id="S59_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S60_H" id="S60_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S61_H" id="S61_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S62_H" id="S62_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S63_H" id="S63_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S64_H" id="S64_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S65_H" id="S65_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S66_H" id="S66_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S67_H" id="S67_H_hov1_cv" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator id="S68_M_5_hov1_cv" lane="S68_M_5" pos="0" vTypes="hov1_cv">
+		<flow begin="0" end="25200" type="hov1_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S57_H" id="S57_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S58_H" id="S58_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S59_H" id="S59_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S60_H" id="S60_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S61_H" id="S61_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S62_H" id="S62_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S63_H" id="S63_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S64_H" id="S64_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S65_H" id="S65_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S66_H" id="S66_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S67_H" id="S67_H_hov2_cv" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator id="S68_M_5_hov2_cv" lane="S68_M_5" pos="0" vTypes="hov2_cv">
+		<flow begin="0" end="25200" type="hov2_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S57_H" id="S57_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S58_H" id="S58_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S59_H" id="S59_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S60_H" id="S60_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S61_H" id="S61_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S62_H" id="S62_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S63_H" id="S63_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S64_H" id="S64_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S65_H" id="S65_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S66_H" id="S66_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator edge="S67_H" id="S67_H_hov3_cv" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+	<calibrator id="S68_M_5_hov3_cv" lane="S68_M_5" pos="0" vTypes="hov3_cv">
+		<flow begin="0" end="25200" type="hov3_cv_hovSeg4"/>
+	</calibrator>
+</additional>

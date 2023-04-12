@@ -1,0 +1,39 @@
+{
+    "Onramp8": {
+        "startTime": 16200,
+        "vehID": "accident2",
+        "routeID": "S25_M_S71_M",
+        "vehType": "car1",
+        "lane": "S38_M_2",
+        "laneID": 2,
+        "edge": "S38_M",
+        "position": 269,
+        "duration": 1200,
+        "endTime": 17400,
+        "rampLocation": [[8425, 3729], [8425, 3758]],
+        "bottleneckUpLocation": [[9625, 3744], [9625, 3754]],
+        "bottleneckDownLocation": [[9695, 3744], [9695, 3754]],
+        "edgesFromOnrampToBottleneck": ["S37_M", "S38_M", "S39_M"],
+        "distFromOnrampToBottleneck": 1.2,
+        "bottleneckLength": 0.07
+    },
+
+    "Onramp15": {
+        "startTime": 14820,
+        "vehID": "accident1",
+        "routeID": "S25_M_S71_M",
+        "vehType": "car1",
+        "lane": "S62_M_2",
+        "laneID": 2,
+        "edge": "S62_M",
+        "position": 315,
+        "duration": 2820,
+        "endTime": 17640,
+        "rampLocation": [[16613, 2254], [16613, 2277]],
+        "bottleneckUpLocation": [[17707, 2267], [17707, 2279]],
+        "bottleneckDownLocation": [[17773, 2255], [17773, 2270]],
+        "edgesFromOnrampToBottleneck": ["S59_M", "S60_M", "S61_M", "S62_M", "S63_M"],
+        "distFromOnrampToBottleneck": 1.199,
+        "bottleneckLength": 0.066
+    }
+}

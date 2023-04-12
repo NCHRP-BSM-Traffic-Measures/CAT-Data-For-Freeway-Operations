@@ -1,0 +1,131 @@
+{
+    "Onramp5": {
+        "meterID": "RM5",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp6": {
+        "meterID": "RM6",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp7": {
+        "meterID": "RM7",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp8": {
+        "meterID": "RM8",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp9": {
+        "meterID": "RM9",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp10": {
+        "meterID": "RM10",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp11": {
+        "meterID": "RM11",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp12": {
+        "meterID": "RM12",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp13": {
+        "meterID": "RM13",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp14": {
+        "meterID": "RM14",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp15": {
+        "meterID": "RM15",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp16": {
+        "meterID": "RM16",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 2,
+        "numVehPerGreenPerLane": 1,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 28
+    },
+
+    "Onramp17": {
+        "meterID": "RM17",
+        "greenPhaseID": 0,
+        "redPhaseID": 1,
+        "greenPhaseLen": 8,
+        "numVehPerGreenPerLane": 3,
+        "minRedPhaseLen": 2,
+        "maxRedPhaseLen": 7
+    }
+}

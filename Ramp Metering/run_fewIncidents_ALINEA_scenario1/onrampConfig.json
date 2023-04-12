@@ -1,0 +1,66 @@
+{
+    "Onramp5": {
+        "numRampLane": 2,
+        "maxVehNum": 31
+    },
+
+    "Onramp6": {
+        "numRampLane": 2,
+        "maxVehNum": 31
+    },
+
+    "Onramp7": {
+        "numRampLane": 2,
+        "maxVehNum": 43
+    },
+
+    "Onramp8": {
+        "numRampLane": 2,
+        "maxVehNum": 83   
+    },
+
+    "Onramp9": {
+        "numRampLane": 2,
+        "maxVehNum": 18
+    },
+
+    "Onramp10": {
+        "numRampLane": 2,
+        "maxVehNum": 25
+    },
+
+    "Onramp11": {
+        "numRampLane": 1,
+        "maxVehNum": 16
+    },
+
+    "Onramp12": {
+        "numRampLane": 2,
+        "maxVehNum": 26
+    },
+
+    "Onramp13": {
+        "numRampLane": 2,
+        "maxVehNum": 32
+    },
+
+    "Onramp14": {
+        "numRampLane": 2,
+        "maxVehNum": 25
+    },
+
+    "Onramp15": {
+        "numRampLane": 2,
+        "maxVehNum": 19
+    },
+
+    "Onramp16": {
+        "numRampLane": 2,
+        "maxVehNum": 33
+    },
+
+    "Onramp17": {
+        "numRampLane": 2,
+        "maxVehNum": 127
+    }
+}

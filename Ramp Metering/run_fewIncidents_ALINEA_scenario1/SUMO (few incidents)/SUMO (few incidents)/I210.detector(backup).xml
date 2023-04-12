@@ -1,0 +1,486 @@
+<additional>
+    <!--Induction loop sensors-->
+    <e1Detector id="D1_F_0" name="769729_0" lane="S10_F_0" pos="159.25" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_F_1" name="769269_1" lane="S10_F_1" pos="159.25" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_H_0" lane="S8_H_0" pos="39.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_M_0" lane="S8_M_0" pos="39.39" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_M_1" lane="S8_M_1" pos="39.39" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_M_2" lane="S8_M_2" pos="39.39" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_M_3" lane="S8_M_3" pos="39.39" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_M_4" lane="S8_M_4" pos="39.39" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_M_5" lane="S8_M_5" pos="39.39" period="300.00" file="./Output/null"/>
+    <e1Detector id="D1_O_0" lane="S9_O_4_0" pos="5.01" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D2_F_0" name="769272" lane="S15_F_0" pos="262.38" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_H_0" lane="S13_H_0" pos="30.17" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_M_0" lane="S13_M_0" pos="30.18" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_M_1" lane="S13_M_1" pos="30.18" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_M_2" lane="S13_M_2" pos="30.18" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_M_3" lane="S13_M_3" pos="30.18" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_M_4" lane="S13_M_4" pos="30.18" period="300.00" file="./Output/null"/>
+    <e1Detector id="D2_O_0" lane="S14_O_4_0" pos="40.45" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D3_F_0" name="737480_0" lane="S22_F_0" pos="295.56" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_F_1" name="737480_1" lane="S22_F_1" pos="295.56" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_H_0" lane="S16_M_5" pos="343.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_M_0" lane="S16_M_0" pos="343.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_M_1" lane="S16_M_1" pos="343.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_M_2" lane="S16_M_2" pos="343.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_M_3" lane="S16_M_3" pos="343.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_M_4" lane="S16_M_4" pos="343.32" period="300.00" file="./Output/null"/>
+    <e1Detector id="D3_O_0" lane="S18_O_4_0" pos="59.35" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D4_F_0" name="763908" lane="S23_F_0" pos="104.89" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_H_0" lane="S19_H_0" pos="415.30" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_M_0" lane="S19_M_0" pos="415.00" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_M_1" lane="S19_M_1" pos="415.00" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_M_2" lane="S19_M_2" pos="415.00" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_M_3" lane="S19_M_3" pos="415.00" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_M_4" lane="S19_M_4" pos="415.00" period="300.00" file="./Output/null"/>
+    <e1Detector id="D4_O_0" lane="S20_O_4_0" pos="21.45" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D5_F_0" name="768923_0" lane="S28_F_0" pos="147.94" period="300.00" file="./Output/D5_F_0.xml"/>
+    <e1Detector id="D5_F_1" name="768923_1" lane="S28_F_1" pos="147.94" period="300.00" file="./Output/D5_F_1.xml"/>
+    <e1Detector id="D5_H_0" lane="S25_H_0" pos="156.16" period="300.00" file="./Output/D5_H_0.xml"/>
+    <e1Detector id="D5_M_0" lane="S25_M_0" pos="154.38" period="300.00" file="./Output/D5_M_0.xml"/>
+    <e1Detector id="D5_M_1" lane="S25_M_1" pos="154.38" period="300.00" file="./Output/D5_M_1.xml"/>
+    <e1Detector id="D5_M_2" lane="S25_M_2" pos="154.38" period="300.00" file="./Output/D5_M_2.xml"/>
+    <e1Detector id="D5_M_3" lane="S25_M_3" pos="154.38" period="300.00" file="./Output/D5_M_3.xml"/>
+    <e1Detector id="D5_M_4" lane="S25_M_4" pos="154.38" period="300.00" file="./Output/D5_M_4.xml"/>
+    <e1Detector id="D5_O_0" lane="S26_O_4_0" pos="43.42" period="300.00" file="./Output/D5_O_0.xml"/>
+    <e1Detector id="D5_O_entry_0" lane="S26_O_1_0" pos="10" period="300.00" file="./Output/D5_O_entry_0.xml"/>
+    <e1Detector id="D5_O_entry_1" lane="S26_O_1_1" pos="10" period="300.00" file="./Output/D5_O_entry_1.xml"/>
+
+    <e1Detector id="D6_F_0" name="717651" lane="S29_F_0" pos="100.61" period="300.00" file="./Output/D6_F_0.xml"/>
+    <e1Detector id="D6_H_0" lane="S29_H_0" pos="311.66" period="300.00" file="./Output/D6_H_0.xml"/>
+    <e1Detector id="D6_M_0" lane="S29_M_0" pos="313.00" period="300.00" file="./Output/D6_M_0.xml"/>
+    <e1Detector id="D6_M_1" lane="S29_M_1" pos="313.00" period="300.00" file="./Output/D6_M_1.xml"/>
+    <e1Detector id="D6_M_2" lane="S29_M_2" pos="313.00" period="300.00" file="./Output/D6_M_2.xml"/>
+    <e1Detector id="D6_M_3" lane="S29_M_3" pos="313.00" period="300.00" file="./Output/D6_M_3.xml"/>
+    <e1Detector id="D6_M_4" lane="S29_M_4" pos="313.00" period="300.00" file="./Output/D6_M_4.xml"/>
+    <e1Detector id="D6_O_0" lane="S30_O_4_0" pos="40.15" period="300.00" file="./Output/D6_O_0.xml"/>
+    <e1Detector id="D6_O_entry_0" lane="S30_O_1_0" pos="10" period="300.00" file="./Output/D6_O_entry_0.xml"/>
+    <e1Detector id="D6_O_entry_1" lane="S30_O_1_1" pos="10" period="300.00" file="./Output/D6_O_entry_1.xml"/>
+
+    <e1Detector id="D7_F_0" name="717658" lane="S32_F_0" pos="181.66" period="300.00" file="./Output/D7_F_0.xml"/>
+    <e1Detector id="D7_H_0" lane="S32_H_0" pos="411.49" period="300.00" file="./Output/D7_H_0.xml"/>
+    <e1Detector id="D7_M_0" lane="S32_M_0" pos="410.17" period="300.00" file="./Output/D7_M_0.xml"/>
+    <e1Detector id="D7_M_1" lane="S32_M_1" pos="410.17" period="300.00" file="./Output/D7_M_1.xml"/>
+    <e1Detector id="D7_M_2" lane="S32_M_2" pos="410.17" period="300.00" file="./Output/D7_M_2.xml"/>
+    <e1Detector id="D7_M_3" lane="S32_M_3" pos="410.17" period="300.00" file="./Output/D7_M_3.xml"/>
+    <e1Detector id="D7_O_0" lane="S33_O_4_0" pos="99.40" period="300.00" file="./Output/D7_O_0.xml"/>
+    <e1Detector id="D7_O_entry_0" lane="S33_O_1_0" pos="10" period="300.00" file="./Output/D7_O_entry_0.xml"/>
+    <e1Detector id="D7_O_entry_1" lane="S33_O_1_1" pos="10" period="300.00" file="./Output/D7_O_entry_1.xml"/>
+
+    <e1Detector id="D8_F_0" name="717666_0" lane="S37_F_0" pos="70.68" period="300.00" file="./Output/D8_F_0.xml"/>
+    <e1Detector id="D8_F_1" name="717666_1" lane="S37_F_1" pos="70.68" period="300.00" file="./Output/D8_F_1.xml"/>
+    <e1Detector id="D8_H_0" lane="S34_H_0" pos="9.34" period="300.00" file="./Output/D8_H_0.xml"/>
+    <e1Detector id="D8_M_0" lane="S34_M_0" pos="9.37" period="300.00" file="./Output/D8_M_0.xml"/>
+    <e1Detector id="D8_M_1" lane="S34_M_1" pos="9.37" period="300.00" file="./Output/D8_M_1.xml"/>
+    <e1Detector id="D8_M_2" lane="S34_M_2" pos="9.37" period="300.00" file="./Output/D8_M_2.xml"/>
+    <e1Detector id="D8_M_3" lane="S34_M_3" pos="9.37" period="300.00" file="./Output/D8_M_3.xml"/>
+    <e1Detector id="D8_O_0" lane="S35_O_4_0" pos="126.64" period="300.00" file="./Output/D8_O_0.xml"/>
+    <e1Detector id="D8_O_entry_0" lane="S35_O_1_0" pos="10" period="300.00" file="./Output/D8_O_entry_0.xml"/>
+    <e1Detector id="D8_O_entry_1" lane="S35_O_1_1" pos="10" period="300.00" file="./Output/D8_O_entry_1.xml"/>
+
+    <e1Detector id="D9_F_0" name="717671" lane="S42_F_0" pos="100.66" period="300.00" file="./Output/D9_F_0.xml"/>
+    <e1Detector id="D9_H_0" lane="S35_H_0" pos="386.31" period="300.00" file="./Output/D9_H_0.xml"/>
+    <e1Detector id="D9_M_0" lane="S35_M_0" pos="386.42" period="300.00" file="./Output/D9_M_0.xml"/>
+    <e1Detector id="D9_M_1" lane="S35_M_1" pos="386.42" period="300.00" file="./Output/D9_M_1.xml"/>
+    <e1Detector id="D9_M_2" lane="S35_M_2" pos="386.42" period="300.00" file="./Output/D9_M_2.xml"/>
+    <e1Detector id="D9_M_3" lane="S35_M_3" pos="386.42" period="300.00" file="./Output/D9_M_3.xml"/>
+    <e1Detector id="D9_M_4" lane="S35_M_4" pos="386.42" period="300.00" file="./Output/D9_M_4.xml"/>
+    <e1Detector id="D9_O_0" lane="S40_O_4_0" pos="29.40" period="300.00" file="./Output/D9_O_0.xml"/>
+    <e1Detector id="D9_O_entry_0" lane="S40_O_1_0" pos="10" period="300.00" file="./Output/D9_O_entry_0.xml"/>
+    <e1Detector id="D9_O_entry_1" lane="S40_O_1_1" pos="10" period="300.00" file="./Output/D9_O_entry_1.xml"/>
+
+    <e1Detector id="D10_F_0" name="761130" lane="S47_F_0" pos="95.34" period="300.00" file="./Output/D10_F_0.xml"/>
+    <e1Detector id="D10_H_0" lane="S38_M_4" pos="391.54" period="300.00" file="./Output/D10_H_0.xml"/>
+    <e1Detector id="D10_M_0" lane="S38_M_0" pos="391.54" period="300.00" file="./Output/D10_M_0.xml"/>
+    <e1Detector id="D10_M_1" lane="S38_M_1" pos="391.54" period="300.00" file="./Output/D10_M_1.xml"/>
+    <e1Detector id="D10_M_2" lane="S38_M_2" pos="391.54" period="300.00" file="./Output/D10_M_2.xml"/>
+    <e1Detector id="D10_M_3" lane="S38_M_3" pos="391.54" period="300.00" file="./Output/D10_M_3.xml"/>
+    <e1Detector id="D10_O_0" lane="S45_O_4_0" pos="27.16" period="300.00" file="./Output/D10_O_0.xml"/>
+    <e1Detector id="D10_O_entry_0" lane="S45_O_1_0" pos="10" period="300.00" file="./Output/D10_O_entry_0.xml"/>
+    <e1Detector id="D10_O_entry_1" lane="S45_O_1_1" pos="10" period="300.00" file="./Output/D10_O_entry_1.xml"/>
+
+    <e1Detector id="D11_F_0" name="761154_0" lane="S52_F_0" pos="128.54" period="300.00" file="./Output/D11_F_0.xml"/>
+    <e1Detector id="D11_F_1" name="761154_1" lane="S52_F_1" pos="128.54" period="300.00" file="./Output/D11_F_1.xml"/>
+    <e1Detector id="D11_H_0" lane="S43_M_4" pos="383.23" period="300.00" file="./Output/D11_H_0.xml"/>
+    <e1Detector id="D11_M_0" lane="S43_M_0" pos="383.23" period="300.00" file="./Output/D11_M_0.xml"/>
+    <e1Detector id="D11_M_1" lane="S43_M_1" pos="383.23" period="300.00" file="./Output/D11_M_1.xml"/>
+    <e1Detector id="D11_M_2" lane="S43_M_2" pos="383.23" period="300.00" file="./Output/D11_M_2.xml"/>
+    <e1Detector id="D11_M_3" lane="S43_M_3" pos="383.23" period="300.00" file="./Output/D11_M_3.xml"/>
+    <e1Detector id="D11_O_0" lane="S48_O_2_0" pos="109.44" period="300.00" file="./Output/D11_O_0.xml"/>
+    <e1Detector id="D11_O_entry_0" lane="S48_O_1_0" pos="50" period="300.00" file="./Output/D11_O_entry_0.xml"/>
+
+    <e1Detector id="D12_F_0" name="111111" lane="S54_F_0" pos="173.18" period="300.00" file="./Output/D12_F_0.xml"/>
+    <e1Detector id="D12_H_0" lane="S46_H_0" pos="386.34" period="300.00" file="./Output/D12_H_0.xml"/>
+    <e1Detector id="D12_M_0" lane="S46_M_0" pos="386.34" period="300.00" file="./Output/D12_M_0.xml"/>
+    <e1Detector id="D12_M_1" lane="S46_M_1" pos="386.34" period="300.00" file="./Output/D12_M_1.xml"/>
+    <e1Detector id="D12_M_2" lane="S46_M_2" pos="386.34" period="300.00" file="./Output/D12_M_2.xml"/>
+    <e1Detector id="D12_M_3" lane="S46_M_3" pos="386.34" period="300.00" file="./Output/D12_M_3.xml"/>
+    <e1Detector id="D12_O_0" lane="S50_O_4_0" pos="112.69" period="300.00" file="./Output/D12_O_0.xml"/>
+    <e1Detector id="D12_O_entry_0" lane="S50_O_1_0" pos="10" period="300.00" file="./Output/D12_O_entry_0.xml"/>
+    <e1Detector id="D12_O_entry_1" lane="S50_O_1_1" pos="10" period="300.00" file="./Output/D12_O_entry_1.xml"/>
+
+    <e1Detector id="D13_F_0" name="761167" lane="S55_F_0" pos="126.38" period="300.00" file="./Output/D13_F_0.xml"/>
+    <e1Detector id="D13_H_0" lane="S47_H_0" pos="387.18" period="300.00" file="./Output/D13_H_0.xml"/>
+    <e1Detector id="D13_M_0" lane="S47_M_0" pos="385.17" period="300.00" file="./Output/D13_M_0.xml"/>
+    <e1Detector id="D13_M_1" lane="S47_M_1" pos="385.17" period="300.00" file="./Output/D13_M_1.xml"/>
+    <e1Detector id="D13_M_2" lane="S47_M_2" pos="385.17" period="300.00" file="./Output/D13_M_2.xml"/>
+    <e1Detector id="D13_M_3" lane="S47_M_3" pos="385.17" period="300.00" file="./Output/D13_M_3.xml"/>
+    <e1Detector id="D13_O_0" lane="S53_O_5_0" pos="105.05" period="300.00" file="./Output/D13_O_0.xml"/>
+    <e1Detector id="D13_O_entry_0" lane="S53_O_1_0" pos="10" period="300.00" file="./Output/D13_O_entry_0.xml"/>
+
+    <e1Detector id="D14_F_0" name="769705_0" lane="S62_F_0" pos="238.94" period="300.00" file="./Output/D14_F_0.xml"/>
+    <e1Detector id="D14_F_1" name="769705_1" lane="S62_F_1" pos="238.94" period="300.00" file="./Output/D14_F_1.xml"/>
+    <e1Detector id="D14_H_0" lane="S49_H_0" pos="8.53" period="300.00" file="./Output/D14_H_0.xml"/>
+    <e1Detector id="D14_M_0" lane="S49_M_0" pos="8.59" period="300.00" file="./Output/D14_M_0.xml"/>
+    <e1Detector id="D14_M_1" lane="S49_M_1" pos="8.59" period="300.00" file="./Output/D14_M_1.xml"/>
+    <e1Detector id="D14_M_2" lane="S49_M_2" pos="8.59" period="300.00" file="./Output/D14_M_2.xml"/>
+    <e1Detector id="D14_M_3" lane="S49_M_3" pos="8.59" period="300.00" file="./Output/D14_M_3.xml"/>
+    <e1Detector id="D14_O_0" lane="S58_O_5_0" pos="21.33" period="300.00" file="./Output/D14_O_0.xml"/>
+    <e1Detector id="D14_O_entry_0" lane="S58_O_1_0" pos="10" period="300.00" file="./Output/D14_O_entry_0.xml"/>
+
+    <e1Detector id="D15_F_0" name="222222" lane="S63_F_1_0" pos="226.59" period="300.00" file="./Output/D15_F_0.xml"/>
+    <e1Detector id="D15_H_0" lane="S52_H_0" pos="646.17" period="300.00" file="./Output/D15_H_0.xml"/>
+    <e1Detector id="D15_M_0" lane="S52_M_0" pos="646.19" period="300.00" file="./Output/D15_M_0.xml"/>
+    <e1Detector id="D15_M_1" lane="S52_M_1" pos="646.19" period="300.00" file="./Output/D15_M_1.xml"/>
+    <e1Detector id="D15_M_2" lane="S52_M_2" pos="646.19" period="300.00" file="./Output/D15_M_2.xml"/>
+    <e1Detector id="D15_M_3" lane="S52_M_3" pos="646.19" period="300.00" file="./Output/D15_M_3.xml"/>
+    <e1Detector id="D15_O_0" lane="S59_O_4_0" pos="62.91" period="300.00" file="./Output/D15_O_0.xml"/>
+    <e1Detector id="D15_O_entry_0" lane="S59_O_1_0" pos="10" period="300.00" file="./Output/D15_O_entry_0.xml"/>
+    <e1Detector id="D15_O_entry_1" lane="S59_O_1_1" pos="10" period="300.00" file="./Output/D15_O_entry_1.xml"/>
+
+    <e1Detector id="D16_F_0" name="774990_0" lane="S71_F_0" pos="63.83" period="300.00" file="./Output/D16_F_0.xml"/>
+    <e1Detector id="D16_F_1" name="774990_1" lane="S71_F_1" pos="63.83" period="300.00" file="./Output/D16_F_1.xml"/>
+    <e1Detector id="D16_H_0" lane="S57_H_0" pos="25.49" period="300.00" file="./Output/D16_H_0.xml"/>
+    <e1Detector id="D16_M_0" lane="S57_M_0" pos="25.48" period="300.00" file="./Output/D16_M_0.xml"/>
+    <e1Detector id="D16_M_1" lane="S57_M_1" pos="25.48" period="300.00" file="./Output/D16_M_1.xml"/>
+    <e1Detector id="D16_M_2" lane="S57_M_2" pos="25.48" period="300.00" file="./Output/D16_M_2.xml"/>
+    <e1Detector id="D16_M_3" lane="S57_M_3" pos="25.48" period="300.00" file="./Output/D16_M_3.xml"/>
+    <e1Detector id="D16_O_0" lane="S64_O_7_0" pos="112.11" period="300.00" file="./Output/D16_O_0.xml"/>
+    <e1Detector id="D16_O_entry_0" lane="S64_O_2_0" pos="10" period="300.00" file="./Output/D16_O_entry_0.xml"/>
+    <e1Detector id="D16_O_entry_1" lane="S64_O_2_1" pos="10" period="300.00" file="./Output/D16_O_entry_1.xml"/>
+
+    <e1Detector id="D17_F_0" name="775859" lane="S74_F_0" pos="64.37" period="300.00" file="./Output/D17_F_0.xml"/>
+    <e1Detector id="D17_H_0" lane="S58_H_0" pos="180.93" period="300.00" file="./Output/D17_H_0.xml"/>
+    <e1Detector id="D17_M_0" lane="S58_M_0" pos="181.53" period="300.00" file="./Output/D17_M_0.xml"/>
+    <e1Detector id="D17_M_1" lane="S58_M_1" pos="181.53" period="300.00" file="./Output/D17_M_1.xml"/>
+    <e1Detector id="D17_M_2" lane="S58_M_2" pos="181.53" period="300.00" file="./Output/D17_M_2.xml"/>
+    <e1Detector id="D17_M_3" lane="S58_M_3" pos="181.53" period="300.00" file="./Output/D17_M_3.xml"/>
+    <e1Detector id="D17_M_4" lane="S58_M_4" pos="181.53" period="300.00" file="./Output/D17_M_4.xml"/>
+    <e1Detector id="D17_O_0" lane="S66_O_2_0" pos="217.58" period="300.00" file="./Output/D17_O_0.xml"/>
+    <e1Detector id="D17_O_1" lane="S66_O_2_1" pos="217.51" period="300.00" file="./Output/D17_O_1.xml"/>
+    <e1Detector id="D17_O_entry_0" lane="S66_O_1_0" pos="10" period="300.00" file="./Output/D17_O_entry_0.xml"/>
+    <e1Detector id="D17_O_entry_1" lane="S66_O_1_1" pos="10" period="300.00" file="./Output/D17_O_entry_1.xml"/>
+
+    <e1Detector id="D18_F_0" name="717680" lane="S78_F_0" pos="61.80" period="300.00" file="./Output/D18_F_0.xml"/>
+    <e1Detector id="D18_H_0" lane="S62_H_0" pos="110.86" period="300.00" file="./Output/D18_H_0.xml"/>
+    <e1Detector id="D18_M_0" lane="S62_M_0" pos="110.26" period="300.00" file="./Output/D18_M_0.xml"/>
+    <e1Detector id="D18_M_1" lane="S62_M_1" pos="110.26" period="300.00" file="./Output/D18_M_1.xml"/>
+    <e1Detector id="D18_M_2" lane="S62_M_2" pos="110.26" period="300.00" file="./Output/D18_M_2.xml"/>
+    <e1Detector id="D18_M_3" lane="S62_M_3" pos="110.26" period="300.00" file="./Output/D18_M_3.xml"/>
+    <e1Detector id="D18_O_0" lane="S72_O_4_0" pos="90.16" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D19_F_0" name="761228" lane="S82_F_0" pos="92.65" period="300.00" file="./Output/D19_F_0.xml"/>
+    <e1Detector id="D19_H_0" lane="S63_H_0" pos="467.63" period="300.00" file="./Output/D19_H_0.xml"/>
+    <e1Detector id="D19_M_0" lane="S63_M_0" pos="467.52" period="300.00" file="./Output/D19_M_0.xml"/>
+    <e1Detector id="D19_M_1" lane="S63_M_1" pos="467.52" period="300.00" file="./Output/D19_M_1.xml"/>
+    <e1Detector id="D19_M_2" lane="S63_M_2" pos="467.52" period="300.00" file="./Output/D19_M_2.xml"/>
+    <e1Detector id="D19_M_3" lane="S63_M_3" pos="467.52" period="300.00" file="./Output/D19_M_3.xml"/>
+    <e1Detector id="D19_O_0" lane="S77_O_4_0" pos="42.67" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D20_F_0" name="717691" lane="S87_F_0" pos="95.86" period="300.00" file="./Output/D20_F_0.xml"/>
+    <e1Detector id="D20_H_0" lane="S65_H_0" pos="20.49" period="300.00" file="./Output/D20_H_0.xml"/>
+    <e1Detector id="D20_M_0" lane="S65_M_0" pos="20.44" period="300.00" file="./Output/D20_M_0.xml"/>
+    <e1Detector id="D20_M_1" lane="S65_M_1" pos="20.44" period="300.00" file="./Output/D20_M_1.xml"/>
+    <e1Detector id="D20_M_2" lane="S65_M_2" pos="20.44" period="300.00" file="./Output/D20_M_2.xml"/>
+    <e1Detector id="D20_M_3" lane="S65_M_3" pos="20.44" period="300.00" file="./Output/D20_M_3.xml"/>
+    <e1Detector id="D20_O_0" lane="S79_O_4_0" pos="240.91" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D21_H_0" lane="S69_H_0" pos="27.69" period="300.00" file="./Output/D21_H_0.xml"/>
+    <e1Detector id="D21_M_0" lane="S69_M_0" pos="27.88" period="300.00" file="./Output/D21_M_0.xml"/>
+    <e1Detector id="D21_M_1" lane="S69_M_1" pos="27.88" period="300.00" file="./Output/D21_M_1.xml"/>
+    <e1Detector id="D21_M_2" lane="S69_M_2" pos="27.88" period="300.00" file="./Output/D21_M_2.xml"/>
+    <e1Detector id="D21_M_3" lane="S69_M_3" pos="27.88" period="300.00" file="./Output/D21_M_3.xml"/>
+    <e1Detector id="D21_M_4" lane="S69_M_4" pos="27.88" period="300.00" file="./Output/D21_M_4.xml"/>
+    <e1Detector id="D21_O_0" lane="S79_O_9_0" pos="11.26" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D22_H_0" lane="S70_H_0" pos="9.68" period="300.00" file="./Output/D22_H_0.xml"/>
+    <e1Detector id="D22_M_0" lane="S70_M_1" pos="9.80" period="300.00" file="./Output/D22_M_0.xml"/>
+    <e1Detector id="D22_M_1" lane="S70_M_2" pos="9.80" period="300.00" file="./Output/D22_M_1.xml"/>
+    <e1Detector id="D22_M_2" lane="S70_M_3" pos="9.80" period="300.00" file="./Output/D22_M_2.xml"/>
+    <e1Detector id="D22_M_3" lane="S70_M_4" pos="9.80" period="300.00" file="./Output/D22_M_3.xml"/>
+    <e1Detector id="D22_O_0" lane="S83_O_4_0" pos="12.35" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D23_H_0" lane="S71_H_0" pos="509.61" period="300.00" file="./Output/D23_H_0.xml"/>
+    <e1Detector id="D23_M_0" lane="S71_M_0" pos="509.89" period="300.00" file="./Output/D23_M_0.xml"/>
+    <e1Detector id="D23_M_1" lane="S71_M_1" pos="509.89" period="300.00" file="./Output/D23_M_1.xml"/>
+    <e1Detector id="D23_M_2" lane="S71_M_2" pos="509.89" period="300.00" file="./Output/D23_M_2.xml"/>
+    <e1Detector id="D23_M_3" lane="S71_M_3" pos="509.89" period="300.00" file="./Output/D23_M_3.xml"/>
+    <e1Detector id="D23_O_0" lane="S85_O_2_0" pos="41.75" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D24_H_0" lane="S73_H_0" pos="631.28" period="300.00" file="./Output/null"/>
+    <e1Detector id="D24_M_0" lane="S73_M_0" pos="630.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D24_M_1" lane="S73_M_1" pos="630.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D24_M_2" lane="S73_M_2" pos="630.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D24_M_3" lane="S73_M_3" pos="630.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D24_O_0" lane="S88_O_4_0" pos="31.78" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D25_H_0" lane="S76_H_0" pos="56.99" period="300.00" file="./Output/null"/>
+    <e1Detector id="D25_M_0" lane="S76_M_0" pos="56.97" period="300.00" file="./Output/null"/>
+    <e1Detector id="D25_M_1" lane="S76_M_1" pos="56.97" period="300.00" file="./Output/null"/>
+    <e1Detector id="D25_M_2" lane="S76_M_2" pos="56.97" period="300.00" file="./Output/null"/>
+    <e1Detector id="D25_M_3" lane="S76_M_3" pos="56.97" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D26_H_0" lane="S78_H_0" pos="284.36" period="300.00" file="./Output/null"/>
+    <e1Detector id="D26_M_0" lane="S78_M_0" pos="287.48" period="300.00" file="./Output/null"/>
+    <e1Detector id="D26_M_1" lane="S78_M_1" pos="287.48" period="300.00" file="./Output/null"/>
+    <e1Detector id="D26_M_2" lane="S78_M_2" pos="287.48" period="300.00" file="./Output/null"/>
+    <e1Detector id="D26_M_3" lane="S78_M_3" pos="287.48" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D27_H_0" lane="S78_H_0" pos="415.89" period="300.00" file="./Output/null"/>
+    <e1Detector id="D27_M_0" lane="S78_M_0" pos="420.52" period="300.00" file="./Output/null"/>
+    <e1Detector id="D27_M_1" lane="S78_M_1" pos="420.52" period="300.00" file="./Output/null"/>
+    <e1Detector id="D27_M_2" lane="S78_M_2" pos="420.52" period="300.00" file="./Output/null"/>
+    <e1Detector id="D27_M_3" lane="S78_M_3" pos="420.52" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D28_H_0" lane="S80_M_4" pos="13.21" period="300.00" file="./Output/null"/>
+    <e1Detector id="D28_M_0" lane="S80_M_0" pos="13.10" period="300.00" file="./Output/null"/>
+    <e1Detector id="D28_M_1" lane="S80_M_1" pos="13.10" period="300.00" file="./Output/null"/>
+    <e1Detector id="D28_M_2" lane="S80_M_2" pos="13.10" period="300.00" file="./Output/null"/>
+    <e1Detector id="D28_M_3" lane="S80_M_3" pos="13.10" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D29_H_0" lane="S82_H_0" pos="262.06" period="300.00" file="./Output/null"/>
+    <e1Detector id="D29_M_0" lane="S82_M_0" pos="262.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D29_M_1" lane="S82_M_1" pos="262.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D29_M_2" lane="S82_M_2" pos="262.05" period="300.00" file="./Output/null"/>
+    <e1Detector id="D29_M_3" lane="S82_M_3" pos="262.05" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D30_H_0" lane="S84_H_0" pos="146.74" period="300.00" file="./Output/null"/>
+    <e1Detector id="D30_M_0" lane="S84_M_0" pos="146.71" period="300.00" file="./Output/null"/>
+    <e1Detector id="D30_M_1" lane="S84_M_1" pos="146.71" period="300.00" file="./Output/null"/>
+    <e1Detector id="D30_M_2" lane="S84_M_2" pos="146.71" period="300.00" file="./Output/null"/>
+    <e1Detector id="D30_M_3" lane="S84_M_3" pos="146.71" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D31_H_0" lane="S86_H_0" pos="40.76" period="300.00" file="./Output/null"/>
+    <e1Detector id="D31_M_0" lane="S86_M_0" pos="40.74" period="300.00" file="./Output/null"/>
+    <e1Detector id="D31_M_1" lane="S86_M_1" pos="40.74" period="300.00" file="./Output/null"/>
+    <e1Detector id="D31_M_2" lane="S86_M_2" pos="40.74" period="300.00" file="./Output/null"/>
+    <e1Detector id="D31_M_3" lane="S86_M_3" pos="40.74" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D32_H_0" lane="S87_H_0" pos="763.73" period="300.00" file="./Output/null"/>
+    <e1Detector id="D32_M_0" lane="S87_M_0" pos="761.40" period="300.00" file="./Output/null"/>
+    <e1Detector id="D32_M_1" lane="S87_M_1" pos="761.40" period="300.00" file="./Output/null"/>
+    <e1Detector id="D32_M_2" lane="S87_M_2" pos="761.40" period="300.00" file="./Output/null"/>
+    <e1Detector id="D32_M_3" lane="S87_M_3" pos="761.40" period="300.00" file="./Output/null"/>
+
+    <e1Detector id="D33_H_0" lane="S89_H_0" pos="560.54" period="300.00" file="./Output/null"/>
+    <e1Detector id="D33_M_0" lane="S89_M_0" pos="564.65" period="300.00" file="./Output/null"/>
+    <e1Detector id="D33_M_1" lane="S89_M_1" pos="564.65" period="300.00" file="./Output/null"/>
+    <e1Detector id="D33_M_2" lane="S89_M_2" pos="564.65" period="300.00" file="./Output/null"/>
+    <e1Detector id="D33_M_3" lane="S89_M_3" pos="564.65" period="300.00" file="./Output/null"/>
+
+
+    <!--Detectors for ALINEA-->
+    <e1Detector id="S26_O_0" lane="S26_M_0" pos="50" period="300.00" file="./Output/S26_M_0.xml"/>
+    <e1Detector id="S26_O_1" lane="S26_M_1" pos="50" period="300.00" file="./Output/S26_M_1.xml"/>
+    <e1Detector id="S26_O_2" lane="S26_M_2" pos="50" period="300.00" file="./Output/S26_M_2.xml"/>
+    <e1Detector id="S26_O_3" lane="S26_M_3" pos="50" period="300.00" file="./Output/S26_M_3.xml"/>
+    <e1Detector id="S26_O_4" lane="S26_M_4" pos="50" period="300.00" file="./Output/S26_M_4.xml"/>
+    <e1Detector id="S26_O_5" lane="S26_M_5" pos="50" period="300.00" file="./Output/S26_M_5.xml"/>
+
+    <e1Detector id="S30_O_0" lane="S30_M_0" pos="50" period="300.00" file="./Output/S30_M_0.xml"/>
+    <e1Detector id="S30_O_1" lane="S30_M_1" pos="50" period="300.00" file="./Output/S30_M_1.xml"/>
+    <e1Detector id="S30_O_2" lane="S30_M_2" pos="50" period="300.00" file="./Output/S30_M_2.xml"/>
+    <e1Detector id="S30_O_3" lane="S30_M_3" pos="50" period="300.00" file="./Output/S30_M_3.xml"/>
+    <e1Detector id="S30_O_4" lane="S30_M_4" pos="50" period="300.00" file="./Output/S30_M_4.xml"/>
+    <e1Detector id="S30_O_5" lane="S30_M_5" pos="50" period="300.00" file="./Output/S30_M_5.xml"/>
+
+    <e1Detector id="S33_O_0" lane="S33_M_0" pos="50" period="300.00" file="./Output/S33_M_0.xml"/>
+    <e1Detector id="S33_O_1" lane="S33_M_1" pos="50" period="300.00" file="./Output/S33_M_1.xml"/>
+    <e1Detector id="S33_O_2" lane="S33_M_2" pos="50" period="300.00" file="./Output/S33_M_2.xml"/>
+    <e1Detector id="S33_O_3" lane="S33_M_3" pos="50" period="300.00" file="./Output/S33_M_3.xml"/>
+    <e1Detector id="S33_O_4" lane="S33_M_4" pos="50" period="300.00" file="./Output/S33_M_4.xml"/>
+
+    <e1Detector id="S35_O_0" lane="S35_M_0" pos="50" period="300.00" file="./Output/S35_M_0.xml"/>
+    <e1Detector id="S35_O_1" lane="S35_M_1" pos="50" period="300.00" file="./Output/S35_M_1.xml"/>
+    <e1Detector id="S35_O_2" lane="S35_M_2" pos="50" period="300.00" file="./Output/S35_M_2.xml"/>
+    <e1Detector id="S35_O_3" lane="S35_M_3" pos="50" period="300.00" file="./Output/S35_M_3.xml"/>
+    <e1Detector id="S35_O_4" lane="S35_M_4" pos="50" period="300.00" file="./Output/S35_M_4.xml"/>
+
+
+    <e1Detector id="S40_O_0" lane="S40_M_0" pos="50" period="300.00" file="./Output/S40_M_0.xml"/>
+    <e1Detector id="S40_O_1" lane="S40_M_1" pos="50" period="300.00" file="./Output/S40_M_1.xml"/>
+    <e1Detector id="S40_O_2" lane="S40_M_2" pos="50" period="300.00" file="./Output/S40_M_2.xml"/>
+    <e1Detector id="S40_O_3" lane="S40_M_3" pos="50" period="300.00" file="./Output/S40_M_3.xml"/>
+    <e1Detector id="S40_O_4" lane="S40_M_4" pos="50" period="300.00" file="./Output/S40_M_4.xml"/>
+
+
+    <e1Detector id="S45_O_0" lane="S45_M_0" pos="50" period="300.00" file="./Output/S45_M_0.xml"/>
+    <e1Detector id="S45_O_1" lane="S45_M_1" pos="50" period="300.00" file="./Output/S45_M_1.xml"/>
+    <e1Detector id="S45_O_2" lane="S45_M_2" pos="50" period="300.00" file="./Output/S45_M_2.xml"/>
+    <e1Detector id="S45_O_3" lane="S45_M_3" pos="50" period="300.00" file="./Output/S45_M_3.xml"/>
+    <e1Detector id="S45_O_4" lane="S45_M_4" pos="50" period="300.00" file="./Output/S45_M_4.xml"/>
+
+
+    <e1Detector id="S48_O_0" lane="S48_M_0" pos="50" period="300.00" file="./Output/S48_M_0.xml"/>
+    <e1Detector id="S48_O_1" lane="S48_M_1" pos="50" period="300.00" file="./Output/S48_M_1.xml"/>
+    <e1Detector id="S48_O_2" lane="S48_M_2" pos="50" period="300.00" file="./Output/S48_M_2.xml"/>
+    <e1Detector id="S48_O_3" lane="S48_M_3" pos="50" period="300.00" file="./Output/S48_M_3.xml"/>
+    <e1Detector id="S48_O_4" lane="S48_M_4" pos="50" period="300.00" file="./Output/S48_M_4.xml"/>
+
+    <e1Detector id="S50_O_0" lane="S50_M_0" pos="50" period="300.00" file="./Output/S50_M_0.xml"/>
+    <e1Detector id="S50_O_1" lane="S50_M_1" pos="50" period="300.00" file="./Output/S50_M_1.xml"/>
+    <e1Detector id="S50_O_2" lane="S50_M_2" pos="50" period="300.00" file="./Output/S50_M_2.xml"/>
+    <e1Detector id="S50_O_3" lane="S50_M_3" pos="50" period="300.00" file="./Output/S50_M_3.xml"/>
+    <e1Detector id="S50_O_4" lane="S50_M_4" pos="50" period="300.00" file="./Output/S50_M_4.xml"/>
+
+    <e1Detector id="S53_O_0" lane="S53_M_0" pos="50" period="300.00" file="./Output/S53_M_0.xml"/>
+    <e1Detector id="S53_O_1" lane="S53_M_1" pos="50" period="300.00" file="./Output/S53_M_1.xml"/>
+    <e1Detector id="S53_O_2" lane="S53_M_2" pos="50" period="300.00" file="./Output/S53_M_2.xml"/>
+    <e1Detector id="S53_O_3" lane="S53_M_3" pos="50" period="300.00" file="./Output/S53_M_3.xml"/>
+    <e1Detector id="S53_O_4" lane="S53_M_4" pos="50" period="300.00" file="./Output/S53_M_4.xml"/>
+
+    <e1Detector id="S58_O_0" lane="S58_M_0" pos="50" period="300.00" file="./Output/S58_M_0.xml"/>
+    <e1Detector id="S58_O_1" lane="S58_M_1" pos="50" period="300.00" file="./Output/S58_M_1.xml"/>
+    <e1Detector id="S58_O_2" lane="S58_M_2" pos="50" period="300.00" file="./Output/S58_M_2.xml"/>
+    <e1Detector id="S58_O_3" lane="S58_M_3" pos="50" period="300.00" file="./Output/S58_M_3.xml"/>
+    <e1Detector id="S58_O_4" lane="S58_M_4" pos="50" period="300.00" file="./Output/S58_M_4.xml"/>
+
+    <e1Detector id="S59_O_0" lane="S59_M_0" pos="50" period="300.00" file="./Output/S59_M_0.xml"/>
+    <e1Detector id="S59_O_1" lane="S59_M_1" pos="50" period="300.00" file="./Output/S59_M_1.xml"/>
+    <e1Detector id="S59_O_2" lane="S59_M_2" pos="50" period="300.00" file="./Output/S59_M_2.xml"/>
+    <e1Detector id="S59_O_3" lane="S59_M_3" pos="50" period="300.00" file="./Output/S59_M_3.xml"/>
+    <e1Detector id="S59_O_4" lane="S59_M_4" pos="50" period="300.00" file="./Output/S59_M_4.xml"/>
+    <e1Detector id="S59_O_5" lane="S59_M_5" pos="50" period="300.00" file="./Output/S59_M_5.xml"/>
+
+    <e1Detector id="S64_O_0" lane="S64_M_0" pos="50" period="300.00" file="./Output/S64_M_0.xml"/>
+    <e1Detector id="S64_O_1" lane="S64_M_1" pos="50" period="300.00" file="./Output/S64_M_1.xml"/>
+    <e1Detector id="S64_O_2" lane="S64_M_2" pos="50" period="300.00" file="./Output/S64_M_2.xml"/>
+    <e1Detector id="S64_O_3" lane="S64_M_3" pos="50" period="300.00" file="./Output/S64_M_3.xml"/>
+    <e1Detector id="S64_O_4" lane="S64_M_4" pos="50" period="300.00" file="./Output/S64_M_4.xml"/>
+
+    <e1Detector id="S66_O_0" lane="S66_M_0" pos="50" period="300.00" file="./Output/S66_M_0.xml"/>
+    <e1Detector id="S66_O_1" lane="S66_M_1" pos="50" period="300.00" file="./Output/S66_M_1.xml"/>
+    <e1Detector id="S66_O_2" lane="S66_M_2" pos="50" period="300.00" file="./Output/S66_M_2.xml"/>
+    <e1Detector id="S66_O_3" lane="S66_M_3" pos="50" period="300.00" file="./Output/S66_M_3.xml"/>
+    <e1Detector id="S66_O_4" lane="S66_M_4" pos="50" period="300.00" file="./Output/S66_M_4.xml"/>
+    <e1Detector id="S66_O_5" lane="S66_M_5" pos="50" period="300.00" file="./Output/S66_M_5.xml"/>
+
+
+    <!--Lane area detector-->
+    <laneAreaDetector id="S26_O_0" lanes="S26_O_1_0 S26_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S26_O_0.xml"/>  
+    <laneAreaDetector id="S26_O_1" lanes="S26_O_1_1 S26_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S26_O_1.xml"/>  
+
+    <laneAreaDetector id="S30_O_0" lanes="S30_O_1_0 S30_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S30_O_0.xml"/>
+    <laneAreaDetector id="S30_O_1" lanes="S30_O_1_1 S30_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S30_O_1.xml"/>  
+
+    <laneAreaDetector id="S33_O_0" lanes="S33_O_1_0 S33_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S33_O_0.xml"/>  
+    <laneAreaDetector id="S33_O_1" lanes="S33_O_1_1 S33_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S33_O_1.xml"/>  
+
+    <laneAreaDetector id="S35_O_0" lanes="S35_O_1_0 S35_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S35_O_0.xml"/>  
+    <laneAreaDetector id="S35_O_1" lanes="S35_O_1_1 S35_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S35_O_1.xml"/>  
+
+    <laneAreaDetector id="S40_O_0" lanes="S40_O_1_0 S40_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S40_O_0.xml"/>  
+    <laneAreaDetector id="S40_O_1" lanes="S40_O_1_1 S40_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S40_O_1.xml"/>  
+
+    <laneAreaDetector id="S45_O_0" lanes="S45_O_1_0 S45_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S45_O_0.xml"/>  
+    <laneAreaDetector id="S45_O_1" lanes="S45_O_1_1 S45_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S45_O_1.xml"/>  
+
+    <laneAreaDetector id="S48_O_0" lanes="S48_O_1_0" period="300.00" pos="44.0" endPos="-0.01" file="./Output/S48_O_0.xml"/>  
+
+    <laneAreaDetector id="S50_O_0" lanes="S50_O_1_0 S50_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S50_O_0.xml"/>  
+    <laneAreaDetector id="S50_O_1" lanes="S50_O_1_1 S50_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S50_O_1.xml"/>  
+
+    <laneAreaDetector id="S53_O_0" lanes="S53_O_1_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S53_O_0.xml"/>  
+    <laneAreaDetector id="S53_O_1" lanes="S53_O_1_0 S53_O_2_0 S53_O_3_0" period="300.00" pos="-0.01" endPos="-0.01" file="./Output/S53_O_1.xml"/>  
+    <laneAreaDetector id="S53_O_2" lanes="S53_O_1_0 S53_O_2_1 S53_O_3_1" period="300.00" pos="-0.01" endPos="-0.01" file="./Output/S53_O_2.xml"/>  
+
+    <laneAreaDetector id="S58_O_0" lanes="S58_O_1_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S58_O_0.xml"/>
+    <laneAreaDetector id="S58_O_1" lanes="S58_O_1_0 S58_O_2_0 S58_O_3_0" period="300.00" pos="-0.01" endPos="-0.01" file="./Output/S58_O_1.xml"/>  
+    <laneAreaDetector id="S58_O_2" lanes="S58_O_1_0 S58_O_2_1 S58_O_3_1" period="300.00" pos="-0.01" endPos="-0.01" file="./Output/S58_O_2.xml"/>  
+
+    <laneAreaDetector id="S59_O_0" lanes="S59_O_1_0 S59_O_2_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S59_O_0.xml"/>
+    <laneAreaDetector id="S59_O_1" lanes="S59_O_1_1 S59_O_2_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S59_O_1.xml"/>  
+
+    <laneAreaDetector id="S64_O_0" lanes="S64_O_2_0 S64_O_3_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S64_O_0.xml"/>  
+    <laneAreaDetector id="S64_O_1" lanes="S64_O_2_1 S64_O_3_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S64_O_1.xml"/>  
+
+    <laneAreaDetector id="S66_O_0" lanes="S66_O_1_0" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S66_O_0.xml"/>  
+    <laneAreaDetector id="S66_O_1" lanes="S66_O_1_1" period="300.00" pos="7.0" endPos="-0.01" file="./Output/S66_O_1.xml"/>  
+
+    <!--Multi-Entry-Multi-Exit sensor-->
+    <entryExitDetector id="Mainline" period="900" openEntry="True" file="./Output/Mainline.xml">
+      <detEntry lane="S24_M_0" pos="5"/>
+      <detEntry lane="S24_M_1" pos="5"/>
+      <detEntry lane="S24_M_2" pos="5"/>
+      <detEntry lane="S24_M_3" pos="5"/>
+      <detEntry lane="S24_M_4" pos="5"/>
+      <detEntry lane="S24_M_5" pos="5"/>
+      
+      <detExit lane="S71_M_0" pos="100"/>
+      <detExit lane="S71_M_1" pos="100"/>
+      <detExit lane="S71_M_2" pos="100"/>
+      <detExit lane="S71_M_3" pos="100"/>
+      <detExit lane="S71_H_0" pos="100"/>
+    </entryExitDetector>
+    
+    <entryExitDetector id="System" period="900" openEntry="True" file="./Output/System.xml">
+      <detEntry lane="S25_M_0" pos="5"/>
+      <detEntry lane="S25_M_1" pos="5"/>
+      <detEntry lane="S25_M_2" pos="5"/>
+      <detEntry lane="S25_M_3" pos="5"/>
+      <detEntry lane="S25_M_4" pos="5"/>
+      <detEntry lane="S25_H_0" pos="5"/>
+      <detEntry lane="S26_O_1_0" pos="5"/>
+      <detEntry lane="S26_O_1_1" pos="5"/>
+      <detEntry lane="S30_O_1_0" pos="5"/>
+      <detEntry lane="S30_O_1_1" pos="5"/>
+      <detEntry lane="S33_O_1_0" pos="5"/>
+      <detEntry lane="S33_O_1_1" pos="5"/>
+      <detEntry lane="S35_O_1_0" pos="5"/>
+      <detEntry lane="S35_O_1_1" pos="5"/>
+      <detEntry lane="S40_O_1_0" pos="5"/>
+      <detEntry lane="S40_O_1_1" pos="5"/>
+      <detEntry lane="S45_O_1_0" pos="5"/>
+      <detEntry lane="S45_O_1_1" pos="5"/>
+      <detEntry lane="S48_O_1_0" pos="5"/>
+      <detEntry lane="S50_O_1_0" pos="5"/>
+      <detEntry lane="S50_O_1_1" pos="5"/>
+      <detEntry lane="S53_O_1_0" pos="5"/>
+      <detEntry lane="S58_O_1_0" pos="5"/>
+      <detEntry lane="S59_O_1_0" pos="5"/>
+      <detEntry lane="S59_O_1_1" pos="5"/>
+      <detEntry lane="S64_O_1_0" pos="5"/>
+      <detEntry lane="S66_O_1_0" pos="5"/>
+      <detEntry lane="S66_O_1_1" pos="5"/>
+
+      <detExit lane="S71_M_0" pos="100"/>
+      <detExit lane="S71_M_1" pos="100"/>
+      <detExit lane="S71_M_2" pos="100"/>
+      <detExit lane="S71_M_3" pos="100"/>
+      <detExit lane="S71_H_0" pos="100"/>
+      <detExit lane="S28_F_0" pos="-5"/>
+      <detExit lane="S28_F_1" pos="-5"/>
+      <detExit lane="S29_F_0" pos="-5"/>
+      <detExit lane="S32_F_0" pos="-5"/>
+      <detExit lane="S37_F_0" pos="-5"/>
+      <detExit lane="S37_F_1" pos="-5"/>
+      <detExit lane="S42_F_0" pos="-5"/>
+      <detExit lane="S47_F_0" pos="-5"/>
+      <detExit lane="S52_F_0" pos="-5"/>
+      <detExit lane="S52_F_1" pos="-5"/>
+      <detExit lane="S54_F_0" pos="-5"/>
+      <detExit lane="S55_F_0" pos="-5"/>
+      <detExit lane="S62_F_0" pos="-5"/>
+      <detExit lane="S62_F_1" pos="-5"/>
+      <detExit lane="S63_F_1_0" pos="-5"/>
+      <detExit lane="S71_F_0" pos="-5"/>
+      <detExit lane="S71_F_1" pos="-5"/>
+    </entryExitDetector>
+
+
+</additional>
