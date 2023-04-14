@@ -1,0 +1,14 @@
+Ramp_Sensor_ID,Immediately_upstream_mainline_sensor_ID,Immediately_downstream_mainline_sensor_ID
+D5_O,D5_M,D6_M
+D6_O,D6_M,D7_M
+D7_O,D7_M,D8_M
+D8_O,D8_M,D9_M
+D9_O,D10_M,D11_M
+D10_O,D11_M,D12_M
+D11_O,D13_M,D14_M
+D12_O,D14_M,D15_M
+D13_O,D15_M,D16_M
+D14_O,D16_M,D17_M
+D15_O,D17_M,D18_M
+D16_O,D19_M,D20_M
+D17_O,D20_M,D21_M
