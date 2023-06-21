@@ -90,7 +90,7 @@ The primary components of the source code comprise:
 
 
 # Key Input Files Preparation
-Before running the simualtion, please ensure that the following files/directoris exist:
+Before running the simualtion, please ensure that the following files/directories exist:
 
 For benchmark scenario:
 
