@@ -19,7 +19,9 @@ This documentation presents a comprehensive overview of the source code develope
 - Peak-hour with many incident-Incident-aware HERO-Scenario 2
 - Peak-hour with many incident-Incident-aware HERO-Scenario 3
 
-For an in-depth exploration of the methodologies employed, please refer to the project's final report. This software is offered as is, without warranty or promise of support of any kind either expressed or implied. Under no circumstance will the National Academy of Sciences or the Transportation Research Board (collectively “TRB”) be liable for any loss or damage caused by the installation or operation of this product. TRB makes no representation or warranty of any kind, expressed or implied, in fact or in law, including without limitation, the warranty of merchantability or the warranty of fitness for a particular purpose, and shall not in any case be liable for any consequential or special damages.
+For an in-depth exploration of the methodologies employed, please refer to the project's final report. 
+
+This software is offered as is, without warranty or promise of support of any kind either expressed or implied. Under no circumstance will the National Academy of Sciences or the Transportation Research Board (collectively “TRB”) be liable for any loss or damage caused by the installation or operation of this product. TRB makes no representation or warranty of any kind, expressed or implied, in fact or in law, including without limitation, the warranty of merchantability or the warranty of fitness for a particular purpose, and shall not in any case be liable for any consequential or special damages.
 
 
 # Document Outline:
