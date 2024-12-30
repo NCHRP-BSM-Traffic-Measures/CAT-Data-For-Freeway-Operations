@@ -23,7 +23,7 @@ class SimulationEnvironment:
 #################################################
 
 class InductionLoop:
-    def __init__(self, env, inductionLoopIDs, period, occThrehsold=30):
+    def __init__(self, env, inductionLoopIDs, period, occThreshold=30):
 
         self.env = env
 
@@ -43,7 +43,7 @@ class InductionLoop:
         self.laneSpeed = [np.mean(speed) for speed in self.laneSpeedEachStep]
         self.edgeSpeed = np.mean(self.laneSpeed)
 
-        self.occThreshold = occThrehsold
+        self.occThreshold = occThreshold
         self.queueIndicator = False
 
         self.warehouse = {
